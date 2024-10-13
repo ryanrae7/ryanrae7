@@ -13,9 +13,9 @@ I'm always on the lookout for opportunities to apply my skills in real-world pro
 Whether it's automating workflows, analyzing trends, or exploring new technologies, I'm constantly working on projects to grow and broaden my technical toolkit. Check out some of my repositories to see what I've been working on.
 
 📈 **Some Projects**  
-- **[Project 1](#)**: Description of project (e.g., data automation tool).
-- **[Project 2](#)**: Description of project (e.g., machine learning-based solution).
-- **[Project 3](#)**: Description of project (e.g., web scraping or GUI development project).
+- **[Project 1](https://github.com/ryanrae7/ImageComparison)**: An automatic image comparison between different versions of software UI (Python/Jupyter).
+- **[Project 2]([#](https://github.com/ryanrae7/Minimal-Crossing-Paper))**: A paper written on applications of Graph Theory to real applications (Applied Sciences/Python/Java).
+- **[Project 3]([#](https://github.com/ryanrae7/Tic-Backend))**: I am attempting to make a gui-framework-backend in C++. Be sure to check back in to see the progress I have made (C/C++).
 
 🎥 **Favorite Movies**  
 In my free time, I enjoy watching movies. Here are my top three:  
