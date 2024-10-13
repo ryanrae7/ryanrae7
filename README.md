@@ -5,7 +5,7 @@ I'm pursuing a B.S. in Applied Mathematics & Economics with a minor in Electrica
 
 💻 **Tech Enthusiast & Problem Solver**  
 I have experience in:  
-- Python, C#, SQL, R  
+- Python, C#, SQL, R, and recent experience in C/C++   
 - Data analytics, automation, and programming  
 I'm always on the lookout for opportunities to apply my skills in real-world projects and internships.
 
