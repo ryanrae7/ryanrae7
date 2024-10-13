@@ -14,8 +14,8 @@ Whether it's automating workflows, analyzing trends, or exploring new technologi
 
 📈 **Some Projects**  
 - **[Project 1](https://github.com/ryanrae7/ImageComparison)**: An automatic image comparison between different versions of software UI (Python/Jupyter).
-- **[Project 2]([#](https://github.com/ryanrae7/Minimal-Crossing-Paper))**: A paper written on applications of Graph Theory to real applications (Applied Sciences/Python/Java).
-- **[Project 3]([#](https://github.com/ryanrae7/Tic-Backend))**: I am attempting to make a gui-framework-backend in C++. Be sure to check back in to see the progress I have made (C/C++).
+- **[Project 2]((https://github.com/ryanrae7/Minimal-Crossing-Paper))**: A paper written on applications of Graph Theory to real applications (Applied Sciences/Python/Java).
+- **[Project 3]((https://github.com/ryanrae7/Tic-Backend))**: I am attempting to make a gui-framework-backend in C++. Be sure to check back in to see the progress I have made (C/C++).
 
 🎥 **Favorite Movies**  
 In my free time, I enjoy watching movies. Here are my top three:  
